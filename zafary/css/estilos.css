@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+.titulo{
+    margin: 10px;
+    margin-left: 2px;
+    padding-left: 80px;
+    padding-bottom: 10px;
+    color:rgb(89, 182, 89);
+  
+}
+
+.principal{
+    margin-left: 33%;
+    margin-top: 15%;
+}
+
+.caja-login{
+ padding-top: 12px;
+ padding-left: 10px;
+ width: 350px;
+ height: 250px;
+ border-style: solid;
+ border-color:rgb(113, 224, 252);
+ border-radius: 20px;
+ background-color: rgb(226, 239, 253);
+}
+
+.email{
+    margin:5px;
+    padding-bottom: 1%;
+    width: 305px;
+    height: 30px ;
+    margin-right: 9%;
+    margin-left: 5%;
+    border-radius: 19px;
+    border-color:rgb(60, 212, 250);
+    border:thick;
+}
+
+.email::placeholder{
+    text-align: center;
+    color:rgb(89, 182, 89);
+}
+
+.psw{
+    margin:5px;
+    padding-bottom: 1%;
+    width: 305px;
+    height: 30px ;
+    margin-right: 9%;
+    margin-left: 5%;
+    border-radius: 19px;
+    border-color:rgb(60, 212, 250);
+    border:thick;
+    }
+
+.psw::placeholder{
+    text-align: center;
+    color:rgb(89, 182, 89);
+}
+
+.btn-submit {
+    margin:5px;
+    padding-top: 3%;
+    padding-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 305px;
+    height: 35px;
+    border-radius: 19px;
+    border-color: rgb(91, 182, 91);
+    background-color:rgb(101, 194, 101);
+    text-align: center;
+    color:white;
+    cursor: pointer;
+    border: thick;
+}
+
+.final{
+     margin-left: 37%;
+ }
+
+ 
